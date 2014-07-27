@@ -9,7 +9,7 @@ How to set up the RC car's controller with the MaKey MaKey
 
 **4.** Upload to your Arduino.
 
-**5.** Unplug the Arduino and get out your project box. (Other 'duinos besides the MaKey MaKey might not fit along with the controller.
+**5.** Unplug the Arduino and get out your project box. (Other 'duinos besides the MaKey MaKey might not fit along with the controller.)
 
 **6.** Take out the batteries and unscrew the plastic shell off of your RC car. Take the circuit board out, being careful not to damage it or its connection to the battery compartment for the controller.
 
