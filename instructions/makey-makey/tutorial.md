@@ -34,3 +34,7 @@ How to set up the RC car's controller with the MaKey MaKey
 Lastly, if you happen to have an Arduino and controller that fits (like the MaKey MaKey) then just cram it all into a box, make a hole for the USB port, screw on the top, plug in the USB cable, plug the other end into your computer, and turn it on again!
 
 If, for some reason, any of this doesn't work, try checking the connections with three wires and the ones to the relays. Those came out a lot for me.
+
+Here's a picture of my setup. Sorry about the blur.
+
+![alt text](https://github.com/milkey-mouse/watson/raw/master/instructions/makey-makey/completed-transmitter.jpg "My wheel-to-rod setup")
