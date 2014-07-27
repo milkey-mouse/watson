@@ -1,7 +1,7 @@
 How to set up the RC car's controller with the MaKey MaKey
 ==========================================================
 
-**1.** *(Skip to step 2 if you're not using a MaKeyMaKey.)* Follow [this guide on how to set up Arduino on a MaKey MaKey](https://learn.sparkfun.com/tutorials/makey-makey-advanced-guide/installing-the-arduino-addon), but if you're on WIndows 8 you may need to follow [this](http://dhakshinamoorthy.wordpress.com/2012/05/14/installing-an-unsigned-driver-in-windows-8-x64/) first.
+**1.** *(Skip to step 2 if you're not using a MaKey MaKey.)* Follow [this guide on how to set up Arduino on a MaKey MaKey](https://learn.sparkfun.com/tutorials/makey-makey-advanced-guide/installing-the-arduino-addon), but if you're on WIndows 8 you may need to follow [this](http://dhakshinamoorthy.wordpress.com/2012/05/14/installing-an-unsigned-driver-in-windows-8-x64/) first.
 
 **2.** Install (if not already installed) the Arduino editor. Then, open it up and select the correct COM port and board type.
 
