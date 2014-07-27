@@ -19,7 +19,7 @@ How to set up the RC car on the blinds
 
 **7.** Get out one of your wall-to-USB converters and plug in your newly USB'ed car. If possible, you could do improvements such as drilling a hole in the battery compartment, detaching the wires, running them through, reattaching them, and screwing the battery compartment back on.
 
-**8.** Keep your car on its back and try using its remote control to spin the wheels and steer it. If it works, congratulations! If it doesn't, go back and check every connection. Chances are one had disconnected.
+**8.** Keep your car on its back, flip the on switch, and try using its remote control to spin the wheels and steer it. If it works, congratulations! If it doesn't, go back and check every connection. Chances are one had disconnected.
 
 **9.** One optional, but recommended, thing to do is to try and remove whatever extraneous plastic the manufacturer put on the car. For mine, that meant removing a giant plastic shell and a front bumper off of the car, which did make it look pretty awesome, but it had to go in order for me to safely put it on my wall. (I kept it- and turned it into a hat. :) )
 
@@ -30,3 +30,7 @@ How to set up the RC car on the blinds
 If that won't work for you, use duct tape (or pretty much any other sort of adhesive) to make the rod stay attached to the wheel. (This joint needs to be pretty strong in order to hold up to the torque exerted on it, so don't do so sparingly.)
 
 **11.** Use duct tape to stick the car onto the wall in a sort of "harness". You can then use the screws to make sure the harness will stay in. I also used staples and a few washers, but those are a little unnecessary.
+
+**12.** Test your new automated blinds. Your car should be set up so that forward is up, and backward is down. Use the remote to make it go up and down for one second each.
+
+**13.** Congratulations! Next you should build the receiver, which is covered in a different tutorial.
