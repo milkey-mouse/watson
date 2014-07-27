@@ -33,4 +33,4 @@ If that won't work for you, use duct tape (or pretty much any other sort of adhe
 
 **12.** Test your new automated blinds. Your car should be set up so that forward is up, and backward is down. Use the remote to make it go up and down for one second each.
 
-**13.** Congratulations! Next you should build the receiver, which is covered in a different tutorial.
+**13.** Congratulations! Next you should build the transmitter, which is covered in a different tutorial.
