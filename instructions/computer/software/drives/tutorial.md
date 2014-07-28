@@ -21,7 +21,9 @@ End Sub
 
 **5.** Click the green button near the top that looks like a "play" button and is next to text that says "Start". Your drive should close.
 
-**6.** Reopen Solution Explorer and right-click on the top icon. (It should say "ECD" in bold letters.) Near the bottom of the context menu, there should be an option that says "Open Folder in File Explorer". Click on it and click on the "bin" folder and then either "Debug" or "Release", depending on which one was selected in Visual Studio. (I believe it defaults to Debug.)
+**6.** Reopen Solution Explorer and right-click on the top icon. (It should say "ECD" in bold letters.) Near the bottom of the context menu, there should be an option that says "Open Folder in File Explorer". Click on it and click on the "bin" folder and then either "Debug" or "Release", depending on which one was selected in Visual Studio. (I believe it defaults to Debug.) Here's a picture of the option:
+
+![alt text](https://github.com/milkey-mouse/watson/raw/master/instructions/computer/software/drives/context-menu.png "The correct button is circled.")
 
 **7..** Rename your compiled app from "ECD" to "ECD\*", with \* being the number (not the letter of your drive, e.g. "ECD1.exe" and "ECD2.exe". Keep this window open.
 
