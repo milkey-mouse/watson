@@ -7,3 +7,7 @@ C:\Users\botki_000\Documents\Visual Studio 2013\Projects\Watson II\ECD\obj\Debug
 C:\Users\botki_000\Documents\Visual Studio 2013\Projects\Watson II\ECD\obj\Debug\ECD.exe
 C:\Users\botki_000\Documents\Visual Studio 2013\Projects\Watson II\ECD\obj\Debug\ECD.xml
 C:\Users\botki_000\Documents\Visual Studio 2013\Projects\Watson II\ECD\obj\Debug\ECD.pdb
+C:\Users\botki_000\Documents\GitHub\watson\code\drives_code\bin\Debug\ECD.exe.config
+C:\Users\botki_000\Documents\GitHub\watson\code\drives_code\obj\Debug\ECD.exe
+C:\Users\botki_000\Documents\GitHub\watson\code\drives_code\obj\Debug\ECD.xml
+C:\Users\botki_000\Documents\GitHub\watson\code\drives_code\obj\Debug\ECD.pdb
