@@ -51,11 +51,10 @@ Partial Class Form1
         Me.Controls.Add(Me.WebBrowser1)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow
         Me.Name = "Form1"
-        Me.Text = "Watson Bing Extension"
+        Me.Text = "Watson Bing Helper"
         Me.ResumeLayout(False)
 
     End Sub
     Friend WithEvents WebBrowser1 As System.Windows.Forms.WebBrowser
     Friend WithEvents Timer1 As System.Windows.Forms.Timer
-
 End Class

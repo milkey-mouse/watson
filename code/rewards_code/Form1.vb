@@ -34,8 +34,8 @@ Public Class Form1
     End Sub
 
     Private Sub WebBrowser1_Navigating(sender As Object, e As WebBrowserNavigatingEventArgs) Handles WebBrowser1.Navigating
-            If e.Url.ToString().Contains("msn.com") Then
-                Me.WebBrowser1.Url = New Uri("http://login.live.com/login.srf")
-            End If
+        If e.Url.ToString().Contains("msn.com") Then
+            Me.WebBrowser1.Url = New Uri("http://login.live.com/login.srf")
+        End If
     End Sub
 End Class
