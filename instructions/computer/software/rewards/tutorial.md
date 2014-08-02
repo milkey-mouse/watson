@@ -1,7 +1,7 @@
 How to build the Bing Rewards checker software
 ==============================================
 
-*(If you haven't registered for Bing Rewards yet, do me a favor and use [this link](http://www.bing.com/explore/rewards?PUBL=REFERAFRIEND&CREA=RAW&rrid=_d7889aa0-c3b7-37a3-5c45-3241d2ec1433). It'll earn me some points and I think you get some free as well! If you prefer to do it without the referral link, go ahead, but you need to click on one of those (if you haven't already registered for Bing Rewards) in order to use this code.)*
+*(If you haven't registered for Bing Rewards yet, do me a favor and use [this link](http://www.bing.com/explore/rewards?PUBL=REFERAFRIEND&CREA=RAW&rrid=_d7889aa0-c3b7-37a3-5c45-3241d2ec1433). It'll earn me some points and I think you get some free as well! If you prefer to do it without the referral link, go ahead, but you need to register- if you haven't already- in order to use this code.)*
 
 **1.** Open the Visual Studio project file located here: watson\code\rewards_code\Watson Bing Helper.vbproj
 
