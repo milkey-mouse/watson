@@ -16,3 +16,12 @@ C:\Users\botki_000\Documents\GitHub\watson\code\socket-code\bin\Debug\Turn Socke
 C:\Users\botki_000\Documents\GitHub\watson\code\socket-code\obj\Debug\Turn Socket On.exe
 C:\Users\botki_000\Documents\GitHub\watson\code\socket-code\obj\Debug\Turn Socket On.xml
 C:\Users\botki_000\Documents\GitHub\watson\code\socket-code\obj\Debug\Turn Socket On.pdb
+C:\Users\botki_000\Documents\GitHub\watson\code\socket-code\bin\Debug\Turn Socket On.exe
+C:\Users\botki_000\Documents\GitHub\watson\code\socket-code\bin\Debug\Turn Socket On.pdb
+C:\Users\botki_000\Documents\GitHub\watson\code\socket-code\bin\Debug\Turn Socket On.xml
+C:\Users\botki_000\Documents\GitHub\watson\code\socket-code\bin\Debug\RocketLauncher.dll
+C:\Users\botki_000\Documents\GitHub\watson\code\socket-code\bin\Debug\UsbLibrary.dll
+C:\Users\botki_000\Documents\GitHub\watson\code\socket-code\obj\Debug\Turn Socket On.vbprojResolveAssemblyReference.cache
+C:\Users\botki_000\Documents\GitHub\watson\code\socket-code\obj\Debug\Turn_Socket_On.Form1.resources
+C:\Users\botki_000\Documents\GitHub\watson\code\socket-code\obj\Debug\Turn_Socket_On.Resources.resources
+C:\Users\botki_000\Documents\GitHub\watson\code\socket-code\obj\Debug\Turn Socket On.vbproj.GenerateResource.Cache
