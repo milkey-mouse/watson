@@ -1,0 +1,14 @@
+C:\Users\botki_000\AppData\Local\Temporary Projects\Turn Socket On\bin\Debug\Turn Socket On.exe.config
+C:\Users\botki_000\Documents\Visual Studio 2013\Projects\Turn Socket On\Turn Socket On\bin\Debug\Turn Socket On.exe.config
+C:\Users\botki_000\Documents\Visual Studio 2013\Projects\Turn Socket On\Turn Socket On\bin\Debug\Turn Socket On.exe
+C:\Users\botki_000\Documents\Visual Studio 2013\Projects\Turn Socket On\Turn Socket On\bin\Debug\Turn Socket On.pdb
+C:\Users\botki_000\Documents\Visual Studio 2013\Projects\Turn Socket On\Turn Socket On\bin\Debug\Turn Socket On.xml
+C:\Users\botki_000\Documents\Visual Studio 2013\Projects\Turn Socket On\Turn Socket On\bin\Debug\RocketLauncher.dll
+C:\Users\botki_000\Documents\Visual Studio 2013\Projects\Turn Socket On\Turn Socket On\bin\Debug\UsbLibrary.dll
+C:\Users\botki_000\Documents\Visual Studio 2013\Projects\Turn Socket On\Turn Socket On\obj\Debug\Turn Socket On.vbprojResolveAssemblyReference.cache
+C:\Users\botki_000\Documents\Visual Studio 2013\Projects\Turn Socket On\Turn Socket On\obj\Debug\Turn_Socket_On.Form1.resources
+C:\Users\botki_000\Documents\Visual Studio 2013\Projects\Turn Socket On\Turn Socket On\obj\Debug\Turn_Socket_On.Resources.resources
+C:\Users\botki_000\Documents\Visual Studio 2013\Projects\Turn Socket On\Turn Socket On\obj\Debug\Turn Socket On.vbproj.GenerateResource.Cache
+C:\Users\botki_000\Documents\Visual Studio 2013\Projects\Turn Socket On\Turn Socket On\obj\Debug\Turn Socket On.exe
+C:\Users\botki_000\Documents\Visual Studio 2013\Projects\Turn Socket On\Turn Socket On\obj\Debug\Turn Socket On.xml
+C:\Users\botki_000\Documents\Visual Studio 2013\Projects\Turn Socket On\Turn Socket On\obj\Debug\Turn Socket On.pdb
