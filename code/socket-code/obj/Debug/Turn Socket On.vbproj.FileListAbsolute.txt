@@ -12,3 +12,7 @@ C:\Users\botki_000\Documents\Visual Studio 2013\Projects\Turn Socket On\Turn Soc
 C:\Users\botki_000\Documents\Visual Studio 2013\Projects\Turn Socket On\Turn Socket On\obj\Debug\Turn Socket On.exe
 C:\Users\botki_000\Documents\Visual Studio 2013\Projects\Turn Socket On\Turn Socket On\obj\Debug\Turn Socket On.xml
 C:\Users\botki_000\Documents\Visual Studio 2013\Projects\Turn Socket On\Turn Socket On\obj\Debug\Turn Socket On.pdb
+C:\Users\botki_000\Documents\GitHub\watson\code\socket-code\bin\Debug\Turn Socket On.exe.config
+C:\Users\botki_000\Documents\GitHub\watson\code\socket-code\obj\Debug\Turn Socket On.exe
+C:\Users\botki_000\Documents\GitHub\watson\code\socket-code\obj\Debug\Turn Socket On.xml
+C:\Users\botki_000\Documents\GitHub\watson\code\socket-code\obj\Debug\Turn Socket On.pdb
