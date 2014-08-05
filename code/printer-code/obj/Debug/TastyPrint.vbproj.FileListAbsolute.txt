@@ -1,0 +1,24 @@
+C:\Users\botki_000\AppData\Local\Temporary Projects\TastyPrint\bin\Debug\TastyPrint.exe.config
+C:\Users\botki_000\AppData\Local\Temporary Projects\TastyPrint\bin\Debug\TastyPrint.exe
+C:\Users\botki_000\AppData\Local\Temporary Projects\TastyPrint\bin\Debug\TastyPrint.pdb
+C:\Users\botki_000\AppData\Local\Temporary Projects\TastyPrint\bin\Debug\TastyPrint.xml
+C:\Users\botki_000\AppData\Local\Temporary Projects\TastyPrint\obj\Debug\TastyPrint.Form1.resources
+C:\Users\botki_000\AppData\Local\Temporary Projects\TastyPrint\obj\Debug\TastyPrint.Resources.resources
+C:\Users\botki_000\AppData\Local\Temporary Projects\TastyPrint\obj\Debug\TastyPrint.vbproj.GenerateResource.Cache
+C:\Users\botki_000\AppData\Local\Temporary Projects\TastyPrint\obj\Debug\TastyPrint.exe
+C:\Users\botki_000\AppData\Local\Temporary Projects\TastyPrint\obj\Debug\TastyPrint.xml
+C:\Users\botki_000\AppData\Local\Temporary Projects\TastyPrint\obj\Debug\TastyPrint.pdb
+C:\Users\botki_000\Documents\Visual Studio 2013\Projects\TastyPrint\TastyPrint\bin\Debug\TastyPrint.exe.config
+C:\Users\botki_000\Documents\Visual Studio 2013\Projects\TastyPrint\TastyPrint\obj\Debug\TastyPrint.exe
+C:\Users\botki_000\Documents\Visual Studio 2013\Projects\TastyPrint\TastyPrint\obj\Debug\TastyPrint.xml
+C:\Users\botki_000\Documents\Visual Studio 2013\Projects\TastyPrint\TastyPrint\obj\Debug\TastyPrint.pdb
+C:\Users\botki_000\Documents\Visual Studio 2013\Projects\TastyPrint\TastyPrint\bin\Debug\TastyPrint.exe
+C:\Users\botki_000\Documents\Visual Studio 2013\Projects\TastyPrint\TastyPrint\bin\Debug\TastyPrint.pdb
+C:\Users\botki_000\Documents\Visual Studio 2013\Projects\TastyPrint\TastyPrint\bin\Debug\TastyPrint.xml
+C:\Users\botki_000\Documents\Visual Studio 2013\Projects\TastyPrint\TastyPrint\obj\Debug\TastyPrint.Form1.resources
+C:\Users\botki_000\Documents\Visual Studio 2013\Projects\TastyPrint\TastyPrint\obj\Debug\TastyPrint.Resources.resources
+C:\Users\botki_000\Documents\Visual Studio 2013\Projects\TastyPrint\TastyPrint\obj\Debug\TastyPrint.vbproj.GenerateResource.Cache
+C:\Users\botki_000\Documents\GitHub\watson\code\printer-code\bin\Debug\TastyPrint.exe.config
+C:\Users\botki_000\Documents\GitHub\watson\code\printer-code\obj\Debug\TastyPrint.exe
+C:\Users\botki_000\Documents\GitHub\watson\code\printer-code\obj\Debug\TastyPrint.xml
+C:\Users\botki_000\Documents\GitHub\watson\code\printer-code\obj\Debug\TastyPrint.pdb
