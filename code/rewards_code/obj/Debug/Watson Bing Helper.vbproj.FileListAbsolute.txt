@@ -1,0 +1,9 @@
+C:\Users\botki_000\Documents\GitHub\watson\code\rewards_code\bin\Debug\Watson Bing Helper Resurrected.exe
+C:\Users\botki_000\Documents\GitHub\watson\code\rewards_code\bin\Debug\Watson Bing Helper Resurrected.pdb
+C:\Users\botki_000\Documents\GitHub\watson\code\rewards_code\bin\Debug\Watson Bing Helper Resurrected.xml
+C:\Users\botki_000\Documents\GitHub\watson\code\rewards_code\obj\Debug\Watson_Bing_Helper_Resurrected.Form1.resources
+C:\Users\botki_000\Documents\GitHub\watson\code\rewards_code\obj\Debug\Watson_Bing_Helper_Resurrected.Resources.resources
+C:\Users\botki_000\Documents\GitHub\watson\code\rewards_code\obj\Debug\Watson Bing Helper.vbproj.GenerateResource.Cache
+C:\Users\botki_000\Documents\GitHub\watson\code\rewards_code\obj\Debug\Watson Bing Helper Resurrected.exe
+C:\Users\botki_000\Documents\GitHub\watson\code\rewards_code\obj\Debug\Watson Bing Helper Resurrected.xml
+C:\Users\botki_000\Documents\GitHub\watson\code\rewards_code\obj\Debug\Watson Bing Helper Resurrected.pdb
